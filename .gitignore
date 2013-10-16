@@ -175,3 +175,5 @@ void reset(major *Atlanta, major *chicago, int *counter, int *flag){
 	*flag = 1;
 	*counter =0;
 }//end of reset
+
+///
